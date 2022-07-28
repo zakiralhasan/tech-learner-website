@@ -1,9 +1,15 @@
+/* custom css for register button  */
 .register-btn{
     padding: 10px 30px;
     border: 2px solid #289BDE;
     color: #289BDE;
     font-weight: 500;
 }
+/* custom css for image slider's dark background  */
+.bg-image-slider{
+    filter: brightness(50%);
+}
+/* custom css for get started, see more and read more button*/
 .tech-learner-btn{
     padding: 10px 30px;
     border-radius: 5px;
@@ -11,12 +17,15 @@
     background-color: #289BDE;
     font-weight: 500;
 }
+/* custom css for Explore The elearning Institute section's background color  */
 .bg-explore-section{
     background-color: #F4FAFD;
 }
+/* custom css for ready to join section's background color  */
 .ready-to-join-section{
     background-color: #289BDE;
 }
+/* custom css for ready to join button  */
 .ready-to-join-btn{
     padding: 10px 30px;
     border-radius: 5px;
@@ -24,6 +33,7 @@
     background-color: white;
     font-weight: 500;
 }
+/* custom css for fontawesome star color  */
 .fa-solid{
     color: #F59E0B;
 }
