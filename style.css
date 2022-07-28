@@ -14,3 +14,13 @@
 .bg-explore-section{
     background-color: #F4FAFD;
 }
+.ready-to-join-section{
+    background-color: #289BDE;
+}
+.ready-to-join-btn{
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: #289BDE;
+    background-color: white;
+    font-weight: 500;
+}
